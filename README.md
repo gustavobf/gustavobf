@@ -14,6 +14,12 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=gustavobf&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavobf/gustavobf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavobf/gustavobf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gustavobf/gustavobf/output/pacman-contribution-graph.svg">
+</picture>
+
 ## ⌨️LeetCode Stats:
 <img src="https://leetcard.jacoblin.cool/gustavobf?theme=nord&font=JetBrains%20Mono" height="150"><br/>
 
